@@ -6,7 +6,7 @@
   "repository": "https://https://github.com/Jjitthu/VCPlayBot /VCPlayBot",
   "stack": "container",
   "buildpacks": 
-   {
+   
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
    }   
   ],        
