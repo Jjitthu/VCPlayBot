@@ -3,9 +3,9 @@
   "logo": "https://telegra.ph/file/7ffa8d18b9b7f1b51a81e.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/QueenArzoo/VCPlayBot",
+  "repository": "https://https://github.com/Jjitthu/VCPlayBot /VCPlayBot",
   "stack": "container",
-  "buildpacks": [
+  "buildpacks": 
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
    }   
